@@ -119,10 +119,6 @@
 </script>
 
 <style scoped>
-    .datePicker {
-        background-color: blue
-    }
-
     .cameraOptHeader {
         margin-top: 3rem;
     }
